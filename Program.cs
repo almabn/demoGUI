@@ -4,7 +4,7 @@ namespace demoRevert
 {
     class Program
     {
-         public int edad {get; set;}
+         public int edad {get; set;} // otro cambio
         static void Main(string[] args)
         {           
             Console.WriteLine("Hello World!");
